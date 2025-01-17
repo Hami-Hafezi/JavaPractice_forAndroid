@@ -7,6 +7,6 @@ public class Java_twoTheSquare {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
         number = number * number;
-        System.out.println(number);
+        System.out.println(number);// Print Square
     }
 }
